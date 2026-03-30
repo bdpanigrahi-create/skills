@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "application_design_center": {
+      "serverUrl": "https://staging-designcenter.sandbox.googleapis.com/mcp",
+      "authProviderType": "google_credentials"
+    },
+    "google_cloud_assist": {
+      "serverUrl": "https://staging-geminicloudassist.sandbox.googleapis.com/mcp",
+      "authProviderType": "google_credentials"
+    }
+  }
+}
